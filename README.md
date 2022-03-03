@@ -1,1 +1,1 @@
-# Bug-Reporting
+# Learning Dashboard: Bug Reporting
