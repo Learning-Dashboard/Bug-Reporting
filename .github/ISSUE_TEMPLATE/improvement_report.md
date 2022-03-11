@@ -27,7 +27,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots/mock-ups to help explain your suggestion.
 
-** Technical context: (if it is relevant):**
+**Technical context (if it is relevant):**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
