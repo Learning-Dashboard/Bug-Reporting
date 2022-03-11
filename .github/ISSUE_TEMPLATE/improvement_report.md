@@ -11,7 +11,7 @@ assignees: ''
 
 **Project group id: [your project group id]**
 
-**Describe the improvment**
+**Describe the improvement**
 A clear and concise description of how the improvement should be.
 
 **Where Affects**
@@ -34,4 +34,4 @@ If applicable, add screenshots/mock-ups to help explain your suggestion.
  - Browser version [e.g. 22]
 
 **Additional context**
-Add any other context about the improvment here.
+Add any other context about the improvement here.
